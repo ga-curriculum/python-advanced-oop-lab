@@ -1,8 +1,8 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Python Barnyard Lab
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Python Classes Lab
 
 | Title                        | Type   | Duration | Author               |
 |------------------------------|--------|----------|-----------------------
-| Python Barnyard Lab          | Lesson | 1:30     | Suresh Melvin Sigera |
+| Python Classes Lab          | Lesson | 1:30     | Suresh Melvin Sigera |
 
 #    
 
